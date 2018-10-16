@@ -66,4 +66,8 @@ The same pattern follows for the second and third superheroes. The word in quote
 
 * [Ashley William's GitHub](https://github.com/ashleygwilliams/) - [Citibike Sinatra](https://github.com/ashleygwilliams/citibike-sinatra)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-nested-forms-lab-superheros/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-nested-forms-lab-superheros/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect. 
+
 <p data-visibility='hidden'>PHRG Sinatra Nested Forms Lab: Superheroes!</p>
